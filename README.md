@@ -28,4 +28,4 @@ The neural network consists of:
 - Training loop with backpropagation
 
 ## Results
-- Achieved high accuracy (97.15%) on Iris test data.
+- Achieved high accuracy (96.67%) on Iris test data.
